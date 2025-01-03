@@ -31,7 +31,6 @@ Here are some of my favorite projects:
 ### Connect with Me
 
 - [LinkedIn](www.linkedin.com/in/sujal-bafna-70a343238/)
-- [Twitter](https://twitter.com/sujalbafna)
 - [Personal Website](https://sujalbafna.com)
 
 Thank you for visiting my profile!
