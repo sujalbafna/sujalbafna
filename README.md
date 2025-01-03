@@ -1,13 +1,13 @@
 # Hi there, I'm Sujal Bafna 👋
 
-Welcome to my GitHub profile! I'm a passionate developer always eager to learn new technologies and build amazing projects.
+Welcome to my GitHub profile! I'm a passionate Full Stack Developer with AWS hands-on experience, always eager to learn new technologies and build amazing projects. I'm also a proficient Python Programmer, constantly exploring automation and innovative solutions.
 
 ### About Me
 
 - 🖥️ I’m currently working on a blogging website with some unique ideas that blend humor and tech insights.
 - 🎓 I’m currently learning Big Data and Cloud Computing to stay ahead in the tech game.
 - 🤝 I’m looking to collaborate on AI-based projects, innovative web apps, or unique tech ideas.
-- 💬 Ask me about GUI development in Java, Python automation, or Node.js backend development—I’d be happy to help!
+- 💬 Ask me about GUI development in Java, Python automation, Node.js backend development, or AWS workflows—I’d be happy to help!
 - 📫 How to reach me: bafna3249@gmail.com
 - ⚡ I can explain tech concepts using Bollywood references—challenge accepted! 🎥
 
@@ -30,7 +30,7 @@ Here are some of my favorite projects:
    
 ### Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/sujalbafna)
+- [LinkedIn](www.linkedin.com/in/sujal-bafna-70a343238/)
 - [Twitter](https://twitter.com/sujalbafna)
 - [Personal Website](https://sujalbafna.com)
 
