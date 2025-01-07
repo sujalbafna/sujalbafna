@@ -11,9 +11,6 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer with AWS han
 - 📫 How to reach me: bafna3249@gmail.com
 - ⚡ I can explain tech concepts using Bollywood references—challenge accepted! 🎥
 
-### My GitHub Stats
-
-![Sujal Bafna's GitHub stats](https://github-readme-stats.vercel.app/api?username=sujalbafna&show_icons=true&theme=radical)
 
 ### Top Languages
 
