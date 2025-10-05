@@ -1,33 +1,60 @@
-# Hi there, I'm Sujal Bafna 👋
+# 👋 Hi, I'm Sujal Bafna!
 
-Welcome to my GitHub profile! I'm a passionate Full Stack Developer with AWS hands-on experience, always eager to learn new technologies and build amazing projects. I'm also a proficient Python Programmer, constantly exploring automation and innovative solutions.
+🚀 **Big Data & Cloud Engineering Enthusiast | Full Stack Developer | AI-ML | Cloud Computing**
 
-### About Me
+Welcome to my GitHub! I'm passionate about building intelligent systems, scalable cloud applications, and data-driven platforms that make an impact.  
+I love blending creativity with technology — from AI automation and machine learning tools to futuristic UI designs.
 
-- 🖥️ I’m currently working on a blogging website with some unique ideas that blend humor and tech insights.
-- 🎓 I’m currently learning Big Data and Cloud Computing to stay ahead in the tech game.
-- 🤝 I’m looking to collaborate on AI-based projects, innovative web apps, or unique tech ideas.
-- 💬 Ask me about GUI development in Java, Python automation, Node.js backend development, or AWS workflows—I’d be happy to help!
-- 📫 How to reach me: bafna3249@gmail.com
-- ⚡ I can explain tech concepts using Bollywood references—challenge accepted! 🎥
+---
 
+## 🧠 About Me
+- 🎓 Pursuing specialization in **Big Data and Cloud Engineering**
+- 💻 Skilled in **JavaScript, TypeScript, Node.js, React, Firebase, MySQL, and AWS**
+- ☁️ Hands-on with **DevOps, FastAPI, and Data Pipelines**
+- 🤖 Exploring **Machine Learning**, **AI-powered platforms**, and **Automation systems**
+- ✍️ Enjoys creating user-centric applications with sleek UI/UX and smart logic
 
-### Top Languages
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sujalbafna&layout=compact&theme=radical)
+## 🧰 Tech Stack
 
-### Projects
+**Languages:**  
+`JavaScript` | `TypeScript` | `Python` | `SQL`  
 
-Here are some of my favorite projects:
+**Frontend:**  
+`React` | `Next.js` | `Tailwind CSS`  
 
-- [Project 1](https://github.com/sujalbafna/Medicine-Management-Store): MediTrack Pro is a secure and user-friendly medicine management system that streamlines inventory tracking, provides low-stock and expiry alerts, and offers advanced search options. Designed for efficiency and accuracy, it ensures seamless medical inventory management with robust user authentication.
-- [Project 2](https://github.com/sujalbafna/Safira): The Women’s Safety Detection System is a real-time AI-based application designed to enhance women's safety using computer vision and gesture detection. The system utilizes face detection, gender classification, and hand gesture recognition (SOS gesture) to detect potentially unsafe situations. It also identifies if a female is surrounded by multiple males or is alone during night hours. Alerts are triggered based on these conditions, contributing to a safer environment.
-- [Project 3](https://sdsforklifttraining.com): SDS Forklift Training offers professional training programs for forklift operators, including Defensive Driving, Counterbalance Forklift, Bendi Operator, High Reach Truck, and more. With a focus on safety, skill development, and certification, we empower individuals and businesses to meet industry standards efficiently and effectively.
-- [Project 4](https://github.com/sujalbafna/Timely-Tables):This project automates academic timetable creation for educational institutions, ensuring conflict-free scheduling of subjects, faculties, and labs across divisions. It generates balanced timetables with color-coded Excel exports—yellow for lunch breaks, green for labs, and blue for regular subjects—using Python and libraries like pandas and openpyxl. The user-friendly tool simplifies scheduling with quick review options and robust logic.
-   
-### Connect with Me
+**Backend:**  
+`Node.js` | `Express.js` | `FastAPI`  
 
-- [LinkedIn](https://www.linkedin.com/in/sujal-bafna-70a343238/)
-- [Personal Website](https://sujalbafna.com)
+**Database & Cloud:**  
+`Firebase` | `MySQL` | `AWS (S3, RDS, Lambda)` | `DevOps CI/CD`  
 
-Thank you for visiting my profile!
+**Tools:**  
+`Git` | `VS Code` | `Postman` | `Power BI` | `Docker` | `VirtualBox`  
+
+---
+
+## 🧩 Currently Working On
+- 🌐 Building a **PM Internship Recommendation Portal** using AI  
+- ☁️ Experimenting with **AWS SageMaker** for model deployment  
+- 🧱 Enhancing my **Zero-Code ML** platform with real-time analytics  
+
+---
+
+## 📫 Connect With Me
+<p align="left">
+  <a href="mailto:bafna3249@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sujal-bafna-70a343238/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/sujalbafna"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+When I'm not coding, you’ll find me experimenting with **AI art**, exploring **cloud automation**, or crafting **handmade creative gifts** 🎨  
+
+---
+
+⭐️ _“Innovating the future, one project at a time.”_  
+— **Sujal Bafna**
